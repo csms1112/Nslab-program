@@ -1,4 +1,3 @@
-"""Nao Harada propagation matrix vol.1 4/24"""
 import cmath
 import math
 import numpy as np
